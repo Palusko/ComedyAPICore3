@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComedyEventsCore3", "ComedyEventsCore3\ComedyEventsCore3.csproj", "{F02D82DC-E6AF-41AD-93E9-629DAF092F36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F02D82DC-E6AF-41AD-93E9-629DAF092F36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F02D82DC-E6AF-41AD-93E9-629DAF092F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F02D82DC-E6AF-41AD-93E9-629DAF092F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F02D82DC-E6AF-41AD-93E9-629DAF092F36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7765C0A-8DF5-4D77-BC2C-3C9BAB186C8A}
+	EndGlobalSection
+EndGlobal
