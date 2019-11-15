@@ -16,7 +16,10 @@ namespace ComedyEventsCore3.Services
 
             CreateMap<Event, EventDto>()
                 .ReverseMap()
-            .ForMember(v => v.Venue, o => o.Ignore());
+                .ForMember(v => v.Venue, o => o.Ignore());
+
+            CreateMap<Venue, VenueDto>()
+                .ReverseMap();
 
             CreateMap<Gig, GigDto>()
                 .ReverseMap()
